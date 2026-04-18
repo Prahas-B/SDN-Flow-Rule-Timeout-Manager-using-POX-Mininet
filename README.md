@@ -201,11 +201,10 @@ PacketIn → FlowInstalled → Traffic → FlowRemoved
 
 ## 📸 Output Screenshots
 
-(Add your images inside `screenshots/` folder)
 
 ### Flow Installation
 
-![Flow](screenshots/flow_install.png)
+![Flow](screenshots/flowinstalled.png)
 
 ### Idle Timeout
 
@@ -217,7 +216,7 @@ PacketIn → FlowInstalled → Traffic → FlowRemoved
 
 ### Flow Table
 
-![Flows](screenshots/flow_table.png)
+![Flows](screenshots/flowtable.png)
 
 ---
 
